@@ -210,8 +210,8 @@ export const SignUpView = () => {
                             </div>
                         </form>
                     </Form>
-                    <div className="bg-radial from-green-700 to-green-900 relative hidden md:flex flex-col gap-y-2 items-center justify-center">
-                        <img src="/logo.png" alt="Image" className="h-[120px] w-[240px]"/>
+                    <div className="bg-radial from-sidebar-accent to-sidebar relative hidden md:flex flex-col gap-y-2 items-center justify-center">
+                        <img src="/logo.png" alt="Image" className="h-55 w-full"/>
                         <p className="text-2xl font-semibold text-white">CALL.AI</p>
                     </div>
                 </CardContent>
